@@ -20,4 +20,4 @@ DISCORD разработчика для связи - Nevil#8588
 - - -
 Не смотря на перевод через обычный онлайн-переводчик, перевод всё ровно выполнен качественно. Смысл функция максимально понятен, в некоторых местах так-же лично мною добавленная доп. информация о функции!
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Th3Nevil.Ru-ViaVersion&left_text=Просмотров)
